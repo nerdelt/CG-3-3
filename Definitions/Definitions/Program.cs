@@ -8,7 +8,7 @@ namespace Definitions
         {
             /*  
             If you want to make an action happen in C#, you must write a statement.
-            A statement can be a line or block of code, and must end in a ";
+            A statement can be a line or block of code, and must end with a ;
             The following statement assigns the value "Winnie" to the string variable, dog.
             */
 
